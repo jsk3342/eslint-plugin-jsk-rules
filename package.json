@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-jsk-rules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jsk3342/eslint-plugin-jsk-rules.git",
+  "author": "jisu-kim <kss2460@naver.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.5.1",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "*",
+    "@typescript-eslint/parser": "*",
+    "eslint": "*",
+    "eslint-plugin-react": "*",
+    "eslint-plugin-react-hooks": "*"
+  }
+}
